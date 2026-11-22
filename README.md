@@ -4,7 +4,7 @@ I'm a full-stack product engineer, and I build the tools I want to build with.
 I'm a Senior Software Engineer at **Vinyl Equity**, working on a greenfield investment platform: share transfers, corporate actions and KYC, across the frontend and backend.
 These days I'm exploring **harness engineering for coding agents**.
 
-**Start here:** [JavaServerClientAPI](https://github.com/pj-25/JavaServerClientAPI) → [Gameholic](https://github.com/pj-25/Gameholic) · [graphicsAI 3D Editor](https://github.com/pj-25/graphicsAI-3D-Editor) · [The Odyssey Voyage](https://github.com/pj-25/the-odyssey-experience)
+**Portfolio:** [pj-25.github.io](https://pj-25.github.io) · **Start here:** [JavaServerClientAPI](https://github.com/pj-25/JavaServerClientAPI) → [Gameholic](https://github.com/pj-25/Gameholic) · [graphicsAI 3D Editor](https://github.com/pj-25/graphicsAI-3D-Editor) · [The Odyssey Voyage](https://github.com/pj-25/the-odyssey-experience)
 
 <details>
 <summary><b>The journey</b>: from Turbo C chess to agentic systems</summary>
